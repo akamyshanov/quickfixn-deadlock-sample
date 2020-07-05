@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeadlockSample": {
+      "commandName": "Project",
+      "commandLineArgs": "client"
+    }
+  }
+}
